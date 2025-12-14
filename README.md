@@ -119,6 +119,7 @@ E-mail address：s-wyw25@bjzgca.edu.cn
 
 ## Acknowledgements
 Thanks to the open robotics community:
+
 AlohaMini · ALOHA · SO-ARM101 · LeRobot 
 
 ## Future
