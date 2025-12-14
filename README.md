@@ -1,7 +1,7 @@
 # AlohaMini-Simulation
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/lemon198/AlohaMini-Simulation/main/picture/P2.png" alt="AlohaMini preview" width="480" />
+	<img src="https://raw.githubusercontent.com/lemon198/AlohaMini-Simulation/main/picture/P7.png" alt="AlohaMini preview" width="480" />
 </p>
 
 AlohaMini-Simulation visualizes the AlohaMini robot using RViz in both ROS 1 and ROS 2, and includes optional Gazebo integration for simulation.
