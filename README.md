@@ -1,5 +1,7 @@
 # AlohaMini-Simulation
 
+![AlohaMini preview](https://raw.githubusercontent.com/lemon198/AlohaMini-Simulation/main/picture/P2.png)
+
 AlohaMini-Simulation visualizes the AlohaMini robot using RViz in both ROS 1 and ROS 2, and includes optional Gazebo integration for simulation.
 
 This document provides separate, explicit instructions for ROS 2 and ROS 1: each section contains build (compile) and run (launch) steps targeted at typical Linux (Ubuntu) environments.
