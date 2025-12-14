@@ -49,12 +49,6 @@ export RMW_IMPLEMENTATION=rmw_fastrtps_cpp
 ros2 launch Aloha display.launch.py  # RViz2 visualization
 ```
 
-6) (Optional) Run Gazebo launch (if package includes Gazebo world/launch):
-
-```bash
-ros2 launch Aloha gazebo.launch.py
-```
-
 Notes for ROS 2:
 - Ensure you installed ROS 2 for your target distro and that `source /opt/ros/<distro>/setup.bash` is present in your shell if needed.
 - If using mixed ROS1/ROS2 setups, configure the ROS1-ROS2 bridge separately.
