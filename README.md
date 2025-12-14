@@ -115,7 +115,7 @@ Notes for ROS 1:
 
 Contributions are welcome. Please open issues or PRs against the upstream repository and follow its contribution guidelines.
 
-e-mail address：s-wyw25@bjzgca.edu.cn
+E-mail address：s-wyw25@bjzgca.edu.cn
 
 ## Acknowledgements
 Thanks to the open robotics community:
